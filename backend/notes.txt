@@ -1,0 +1,20 @@
+## Dependencies
+
+This project uses the following dependencies:
+
+- **express**: Web framework for Node.js
+- **mongoose**: MongoDB object modeling tool
+- **dotenv**: Module to load environment variables
+- **bcryptjs**: Library to hash passwords
+- **jsonwebtoken**: Library to create and verify JSON Web Tokens (JWT)
+- **morgan**: HTTP request logger middleware for Node.js
+- **express-validator**: Set of express.js middleware that wraps validator.js
+
+### Installation
+
+To install the dependencies, run the following command:
+
+```bash
+npm install express mongoose dotenv bcryptjs jsonwebtoken morgan express-validator
+
+
